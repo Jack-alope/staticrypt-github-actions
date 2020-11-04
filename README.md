@@ -1,1 +1,1 @@
-# fatema-blog
+# Staticrypt Github Actions
